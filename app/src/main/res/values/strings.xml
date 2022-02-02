@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LABA1</string>
+    <string name="title_home">LABA1</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="button_show_data">Показать данные</string>
+    <string name="student_data">Трипольская В.С, 4 курс, группа ИВТ-1</string>
+</resources>
